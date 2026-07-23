@@ -66,8 +66,11 @@ This project is built using *FastAPI* and extends the Project Management API by 
 
 notification_and_activity_tracking_system/
 │
+
 ├── routers/
+
 │   ├── auth.py
+
 │   ├── users.py
 │   ├── notification.py
 │   ├── activities.py
