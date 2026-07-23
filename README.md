@@ -64,8 +64,7 @@ This project is built using *FastAPI* and extends the Project Management API by 
 ## Project Structure
 
 
-notification_and_activity_tracking_system/
-│
+|notification_and_activity_tracking_system/
 
 ├── routers/
 
