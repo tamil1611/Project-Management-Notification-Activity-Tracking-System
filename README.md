@@ -72,22 +72,39 @@ notification_and_activity_tracking_system/
 │   ├── auth.py
 
 │   ├── users.py
+
 │   ├── notification.py
+
 │   ├── activities.py
+
 │   └── audit_log.py
+
 │
+
 ├── services/
+
 │   ├── activity_service.py
+
 │   ├── notification_service.py
+
 │   └── audit_service.py
+
 │
+
 ├── models.py
+
 ├── schemas.py
+
 ├── database.py
+
 ├── oauth2.py
+
 ├── dependencies.py
+
 ├── utils.py
+
 ├── main.py
+
 └── README.md
 
 
